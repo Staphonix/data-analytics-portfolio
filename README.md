@@ -24,6 +24,8 @@ This portfolio highlights my coursework, personal projects, and applied skills a
 | [D597 – Data Management](https://github.com/Staphonix/D597-Data-Management) | 📄 Designed and implemented relational databases using PostgreSQL,pgAdmin and MongoDB , as well as non-relational databases leveraging MongoDB | Covering schema design, normalization, and querying with both SQL and NoSQL techniques. |
 | [D598 – Analytics Programming](https://github.com/Staphonix/Staphonix-D598---Analytics-Programming) | 📈 Business Performance Analytics | Developed a Python workflow for cleaning, visualizing, and analyzing business data to assess trends and inform executive decisions |
 | [D599 – Data Preparation & Exploration](https://github.com/Staphonix/D599---Data-Preparation-and-Exploration) | 🔍 Data Cleaning & PCA | Cleaned a medical dataset, addressed missing values, performed EDA, and applied dimensionality reduction techniques to improve interpretability |
+| [D600 – Statistical Data Mining](#) | 📊 Supervised & Unsupervised Modeling | Applied regression, classification, clustering, and dimensionality reduction techniques using Python and R to uncover insights and improve predictive accuracy. |
+| [D601 – Data Storytelling for Varied Audiences](#) | 📣 Communicating Data Insights | Developed skills to effectively communicate complex data findings through storytelling, visualization, and audience-tailored presentations. |
 
 
 
