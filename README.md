@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Staphon Smith
+# 👋 Staphon Smith | Empowering Decisions Through Data
 
-🎓 Data Analyst | 📈 Finance Professional | 🤖 Future-Focused Problem Solver
+🎓 Data Analyst/Scientist | 📈 Finance Professional | 🤖 Future-Focused Problem Solver
 
 Welcome to my GitHub portfolio. I'm currently pursuing a **Master of Science in Data Analytics** at **Western Governors University**, where I apply statistical analysis, data modeling, and visualization to solve real-world problems.
 
