@@ -21,7 +21,7 @@ This portfolio highlights my coursework, personal projects, and applied skills a
 
 | Course | Project | Description |
 |--------|---------|-------------|
-| [D597 – Data Management](https://github.com/Staphonix/D597---Data-Management) | 📄 Relational Database Design | Designed and implemented normalized PostgreSQL databases for medical records and an EcoMart inventory system using pgAdmin |
+| [D597 – Data Management]([https://github.com/Staphonix/D597---Data-Management] | 📄 Relational Database Design | Designed and implemented normalized PostgreSQL databases for medical records and an EcoMart inventory system using pgAdmin |
 | [D598 – Analytics Programming](https://github.com/Staphonix/D598---Analytics-Programming) | 📈 Business Performance Analytics | Developed a Python workflow for cleaning, visualizing, and analyzing business data to assess trends and inform executive decisions |
 | [D599 – Data Preparation & Exploration](https://github.com/Staphonix/D599---Data-Preparation-and-Exploration) | 🔍 Data Cleaning & PCA | Cleaned a medical dataset, addressed missing values, performed EDA, and applied dimensionality reduction techniques to improve interpretability |
 
