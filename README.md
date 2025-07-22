@@ -26,7 +26,11 @@ This portfolio highlights my coursework, personal projects, and applied skills a
 | [D599 – Data Preparation & Exploration](https://github.com/Staphonix/D599---Data-Preparation-and-Exploration) | 🔍 Data Cleaning & PCA | Cleaned a medical dataset, addressed missing values, performed EDA, and applied dimensionality reduction techniques to improve interpretability |
 | [D600 – Statistical Data Mining](#) | 📊 Supervised & Unsupervised Modeling | Applied regression, classification, clustering, and dimensionality reduction techniques using Python and R to uncover insights and improve predictive accuracy. |
 | [D601 – Data Storytelling for Varied Audiences](#) | 📣 Communicating Data Insights | Developed skills to effectively communicate complex data findings through storytelling, visualization, and audience-tailored presentations. |
-
+| [D602 – Deployment](#) | 🚀 Model & Solution Deployment | Covers strategies and tools for deploying data models and analytics solutions into production environments. |
+| [C783 – Project Management](#) | 📋 Data Analytics Project Management | Focuses on managing analytics projects, including scope, timelines, resources, and stakeholder communication. |
+| [D612 – Business Process Engineering](#) | 🔄 Process Analysis & Improvement | Applies data-driven methods to analyze and optimize business processes for increased efficiency. |
+| [D613 – Decision Intelligence](#) | 🧠 Data-Driven Decision Making | Explores frameworks and tools that enhance decision-making using data analytics and AI techniques. |
+| [D614 – Decision Process Engineering Capstone](#) | 🎓 Capstone Project | Integrates knowledge and skills from prior courses to solve complex, real-world business problems through data analytics. |
 
 
 ---
