@@ -15,7 +15,6 @@ This portfolio highlights my coursework, personal projects, and applied skills a
 - **R Libraries:** dplyr, tidyr, ggplot2, shiny, caret, randomForest, e1071, xgboost, MASS, forecast  
 - **Techniques:** Data cleaning, EDA, regression (linear & logistic), classification (decision trees, random forests, SVM, boosting), clustering (k-means, hierarchical, DBSCAN), dimensionality reduction (PCA, t-SNE), hypothesis testing, time series forecasting, SQL querying, ETL, model validation  
 - **Tools & Platforms:** Jupyter Notebook, RStudio, PostgreSQL, pgAdmin, MongoDB, Tableau, Power BI, Git, GitHub, Excel, command line/terminal  
-- **Model Evaluation:** Accuracy, precision, recall, F1 score, confusion matrix, ROC/AUC, MAE, MSE/RMSE, R-squared, cross-validation (k-fold), log-loss
 
 ---
 
