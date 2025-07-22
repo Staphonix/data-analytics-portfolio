@@ -35,6 +35,21 @@ This portfolio highlights my coursework, personal projects, and applied skills a
 
 ---
 
+### Additional Tools (Upcoming Courses)
+- **Deployment:** Docker, Kubernetes, AWS (S3, Lambda, EC2), Azure, Google Cloud Platform, Flask, FastAPI, MLflow, Jenkins, GitHub Actions, RESTful APIs, Prometheus, Grafana, ELK Stack  
+- **Project Management:** Jira, Trello, Asana, Microsoft Project, Agile, Scrum, Waterfall, Microsoft Teams, Slack, Confluence  
+- **Business Process Engineering:** BPMN, Lucidchart, Visio, UiPath, Automation Anywhere, Apache NiFi, Talend, Lean Six Sigma (DMAIC, Kaizen)  
+- **Decision Intelligence:** DMN, Python PuLP, SciPy.optimize, TensorFlow, PyTorch, Advanced Tableau & Power BI dashboards, AnyLogic, SimPy  
+
+### Model Evaluation Metrics
+- Accuracy, Precision, Recall, F1 Score  
+- Confusion Matrix  
+- ROC Curve & AUC  
+- MAE, MSE, RMSE  
+- R-squared  
+- Cross-validation (k-fold)  
+- Log-loss  
+
 ## 📊 Notable Work
 
 - **[Airbnb LA Project](#)** *(Coming Soon)*: Pricing trend analysis and feature impact scoring
