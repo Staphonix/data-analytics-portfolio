@@ -12,7 +12,6 @@ This portfolio highlights my coursework, personal projects, and applied skills a
 
 - **Languages:** Python, R, SQL, Bash/Shell scripting  
 - **Python Libraries:** pandas, numpy, matplotlib, seaborn, plotly, statsmodels, scipy, scikit-learn, xgboost, lightgbm, nltk, spaCy  
-- **R Libraries:** dplyr, tidyr, ggplot2, shiny, caret, randomForest, e1071, xgboost, MASS, forecast  
 - **Techniques:** Data cleaning, EDA, regression (linear & logistic), classification (decision trees, random forests, SVM, boosting), clustering (k-means, hierarchical, DBSCAN), dimensionality reduction (PCA, t-SNE), hypothesis testing, time series forecasting, SQL querying, ETL, model validation  
 - **Tools & Platforms:** Jupyter Notebook, RStudio, PostgreSQL, pgAdmin, MongoDB, Tableau, Power BI, Git, GitHub, Excel, command line/terminal  
 
