@@ -26,7 +26,6 @@ This portfolio highlights my coursework, personal projects, and applied skills a
 | [D599 – Data Preparation & Exploration](https://github.com/Staphonix/D599---Data-Preparation-and-Exploration) | 🔍 Data Cleaning & PCA | Cleaned a medical dataset, addressed missing values, performed EDA, and applied dimensionality reduction techniques to improve interpretability |
 | [D600 – Statistical Data Mining](#) | 📊 Supervised & Unsupervised Modeling | Applied regression, classification, clustering, and dimensionality reduction techniques using Python and R to uncover insights and improve predictive accuracy. |
 | [D601 – Data Storytelling](https://github.com/Staphonix/D601-Data-Storytelling) | 📊 Interactive Dashboards & Data Storytelling | Created Tableau dashboards and reports tailored for technical and non-technical audiences, focused on clear data communication and executive decision-making support. |
-
 | [D602 – Deployment](#) | 🚀 Model & Solution Deployment | Covers strategies and tools for deploying data models and analytics solutions into production environments. |
 | [C783 – Project Management](#) | 📋 Data Analytics Project Management | Focuses on managing analytics projects, including scope, timelines, resources, and stakeholder communication. |
 | [D612 – Business Process Engineering](#) | 🔄 Process Analysis & Improvement | Applies data-driven methods to analyze and optimize business processes for increased efficiency. |
