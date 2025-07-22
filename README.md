@@ -1,54 +1,59 @@
-# 📊 Staphon Smith – Data Analytics & Data Science Portfolio
+# 👋 Hi, I'm Staphon Smith
 
-Welcome to my hybrid portfolio! I'm currently pursuing my MS in Data Analytics and specialize in uncovering business insights using Python, SQL, ML, and BI tools. This portfolio contains end-to-end projects in data cleaning, EDA, visualization, machine learning, and business analytics.
+🎓 Data Analyst | 📈 Finance Professional | 🤖 Future-Focused Problem Solver
 
----
+Welcome to my GitHub portfolio. I'm currently pursuing a **Master of Science in Data Analytics** at **Western Governors University**, where I apply statistical analysis, data modeling, and visualization to solve real-world problems.
 
-## 🔬 Data Analytics Projects
-
-### 🧾 [Telecom Customer Churn Dashboard](link)
-- **Tools**: Tableau, Excel
-- Visualized churn by demographics, payment type, and contract type.
-- Presented strategic retention actions for executives.
-
-### 🏠 [Airbnb LA Market Analysis](link)
-- **Tools**: Python (Pandas, Seaborn), Jupyter
-- Identified pricing trends, occupancy rates, and geographic patterns.
-
-### 🛒 [E-commerce Relational Database Design](link)
-- **Tools**: PostgreSQL, pgAdmin
-- Created normalized schema and wrote advanced SQL queries.
-- Modeled orders, products, customers, and transactions.
+This portfolio highlights my coursework, personal projects, and applied skills across data cleaning, analytics, and reporting — all rooted in my business and finance background.
 
 ---
 
-## 🤖 Data Science / ML Projects
+## 🔧 Tools & Technologies
 
-### 🏀 [NBA Player Clustering](link)
-- **Tools**: Python (Scikit-Learn, PCA, K-Means)
-- Grouped players into archetypes using performance metrics.
-
-### 📈 [Stock Price Prediction](link)
-- **Tools**: Python (XGBoost, LSTM), Yahoo Finance API
-- Built a regression model to forecast closing prices.
-
-### 📉 [Customer Retention Analysis (EDA + Feature Engineering)](link)
-- **Tools**: Python, Pandas, Matplotlib, Featuretools
-- Explored lifetime value, churn indicators, and engineered features for modeling.
+- **Languages**: Python, SQL, R
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, scikit-learn
+- **Tools**: Jupyter Notebook, Tableau, Power BI, PostgreSQL, Excel
+- **Concepts**: EDA, Data Cleaning, Regression, Classification, PCA, Business Intelligence, DCF Modeling
 
 ---
 
-## 💡 Skills & Tools
+## 📁 Featured Course Projects
 
-| Languages | Tools | Concepts |
-|-----------|-------|----------|
-| Python, SQL | Tableau, Power BI, Excel | EDA, Regression, Classification |
-| R (basic) | Jupyter, pgAdmin | Data Wrangling, Clustering, PCA |
-| Markdown, Git | GitHub, Scikit-learn | ML Pipelines, Data Viz, KPI Dashboards |
+| Course | Project | Description |
+|--------|---------|-------------|
+| [D597 – Data Management](https://github.com/Staphonix/D597---Data-Management) | 📄 Relational Database Design | Designed and implemented normalized PostgreSQL databases for medical records and an EcoMart inventory system using pgAdmin |
+| [D598 – Data Analysis](https://github.com/Staphonix/D598---Data-Analysis) | 📈 Business Performance Analytics | Developed a Python workflow for cleaning, visualizing, and analyzing business data to assess trends and inform executive decisions |
+| [D599 – Data Preparation & Exploration](https://github.com/Staphonix/D599---Data-Preparation-and-Exploration) | 🔍 Data Cleaning & PCA | Cleaned a medical dataset, addressed missing values, performed EDA, and applied dimensionality reduction techniques to improve interpretability |
 
 ---
 
-## 🌐 Let’s Connect
-- [LinkedIn] [(https://www.linkedin.com/in/staphon-smith/)
-- Email: staphon.smith1@gmail.com
+## 📊 Notable Work
 
+- **[Airbnb LA Project](#)** *(Coming Soon)*: Pricing trend analysis and feature impact scoring
+- **[NBA Player Analysis](#)** *(Coming Soon)*: Used player stats to uncover recruitment and performance patterns
+- **[British Airways Tableau Report](#)** *(Coming Soon)*: Dashboard built to visualize cost, revenue, and route efficiency KPIs
+
+---
+
+## 🧠 My Interests
+
+- Data Analytics in Sports, Finance, and Real Estate
+- AI tools for business optimization and automation
+- Dashboard design, business intelligence, and data pipelines
+- Turning messy data into clear, actionable insights
+
+---
+
+## 📬 Let’s Connect
+
+- **LinkedIn**: [linkedin.com/in/staphon-smith](https://www.linkedin.com/in/staphon-smith/)
+- **GitHub**: [github.com/Staphonix](https://github.com/Staphonix)
+- **Email**: *Available upon request*
+
+---
+
+### 🚀 Ongoing Mission
+
+I’m building a **real-world-ready data portfolio** to reflect both academic excellence and business impact. Whether it’s cleaning raw data, automating insights, or helping executives make smarter decisions — I’m focused on delivering results that matter.
+
+Stay tuned — new projects are added regularly!
