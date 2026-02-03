@@ -65,7 +65,7 @@ Welcome to my professional portfolio. I am a Data Scientist pivoting from a back
 | **D599** | [Data Prep & Exploration](https://github.com/Staphonix/D599---Data-Preparation-and-Exploration) | Dimensionality Reduction (PCA) & EDA |
 | **D600** | [Statistical Data Mining](#) | Supervised & Unsupervised Modeling |
 | **D601** | [Data Storytelling](https://github.com/Staphonix/D601-Data-Storytelling) | KPI Dashboards & Executive Strategy Alignment |
-| **D602** | [Model Deployment](https://github.com/Staphonix/your-repo) | Fast API Development & Model Production |
+| **D602** | [Model Deployment](https://github.com/Staphonix/your-repo) | FastAPI Development & Model Production |
 | **D603** | [Machine Learning](#) | Predictive Modeling for Market & Sourcing Analysis |
 | **D604** | [Advanced Analytics](#) | Deep Learning, CNNs, and NLP |
 | **D605** | [Optimization](#) | Linear Programming & Multi-stage Network Flows |
