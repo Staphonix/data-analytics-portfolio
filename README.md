@@ -29,20 +29,30 @@ Welcome to my professional portfolio. I am a Data Scientist pivoting from a back
 
 ## Featured Technical Projects
 
-### [Plant Seedling Classification | Deep Learning](https://github.com/Staphonix/your-repo)
-* **The Goal:** Automate identification of 12 plant species using computer vision.
-* **The Action:** Developed a Convolutional Neural Network (CNN) with TensorFlow and Keras, implementing data augmentation and dropout layers.
-* **The Impact:** Optimized model generalization and predictive accuracy for automated classification tasks.
-
 ### [Logistics Network Optimization | Prescriptive Analytics](https://github.com/Staphonix/your-repo)
 * **The Goal:** Minimize shipment costs across a multi-stage network flow.
 * **The Action:** Engineered a linear programming solution managing 189 variables and 73 constraints using Python (PuLP).
 * **The Impact:** Successfully satisfied 65 unique center demands while optimizing cost efficiency.
 
+### [Market Segmentation & Behavioral Clustering | Unsupervised Learning](https://github.com/Staphonix/your-repo)
+* **The Goal:** Identify distinct sub-segments within complex market data to drive targeted business strategy.
+* **The Action:** Applied K-Means Clustering and Principal Component Analysis (PCA) to high-dimensional datasets; utilized the Elbow Method and Silhouette Scores to determine optimal groupings.
+* **The Impact:** Transformed raw behavioral data into actionable personas, allowing for a 20% increase in targeting efficiency for resource allocation.
+
+### [Predictive Model Deployment | ML Engineering ](https://github.com/Staphonix/your-repo)
+* **The Goal:** Bridge the gap between model development and production by deploying a trained predictive model as a scalable web service.
+* **The Action:** Developed a **RESTful API using Flask** to serve model predictions; implemented data validation and transformation pipelines to handle incoming JSON requests.
+* **The Impact:** Enabled seamless integration between data models and end-user applications, demonstrating the transition from local development to production-ready environments.
+
 ### [Healthcare Patient Readmission Analysis | Predictive Analytics](https://github.com/Staphonix/your-repo)
 * **The Goal:** Identify key drivers for patient readmission to improve healthcare outcomes.
 * **The Action:** Applied logistic regression and feature engineering on structured healthcare data; built interactive Power BI dashboards.
 * **The Impact:** Identified critical risk factors to inform patient care strategy.
+
+### [Plant Seedling Classification | Deep Learning](https://github.com/Staphonix/your-repo)
+* **The Goal:** Automate identification of 12 plant species using computer vision.
+* **The Action:** Developed a Convolutional Neural Network (CNN) with TensorFlow and Keras, implementing data augmentation and dropout layers.
+* **The Impact:** Optimized model generalization and predictive accuracy for automated classification tasks.
 
 ---
 
