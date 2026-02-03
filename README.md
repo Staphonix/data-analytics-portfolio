@@ -19,9 +19,9 @@ Welcome to my professional portfolio. I am a Data Scientist pivoting from a back
 
 ## Technical Skills
 
-* **Languages:** SQL (PostgreSQL/MySQL), Python (Pandas, NumPy, Scikit-Learn, Statsmodels), R. **Advanced Excel (VBA/Power Query)**
+* **Languages:** SQL (PostgreSQL/MySQL), Python (Pandas, NumPy, Scikit-Learn, Statsmodels), R. 
 * **AI & Deep Learning:** TensorFlow, Keras, CNNs, NLP.
-* **Analytics & Optimization:** PuLP (Linear Programming), PCA, K-Means Clustering, Hypothesis Testing.
+* **Analytics & Optimization:** PuLP (Linear Programming), PCA, K-Means Clustering, Hypothesis Testing. **Advanced Excel (VBA/Power Query)**
 * **Visualization:** Power BI, Tableau, Seaborn, Advanced Excel (VBA).
 * **Platform Mastery:** Git/GitHub, Salesforce/CRM, Jupyter, NoSQL.
 
