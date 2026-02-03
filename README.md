@@ -36,7 +36,7 @@ Welcome to my professional portfolio. I am a Data Scientist pivoting from a back
 
 ### [Predictive Model Deployment | ML Engineering](https://github.com/Staphonix/your-repo)
 * **The Goal:** Bridge the gap between model development and production by deploying a trained predictive model as a scalable web service.
-* **The Action:** Developed a **RESTful API using Flask** to serve model predictions; implemented data validation and transformation pipelines to handle incoming JSON requests.
+* **The Action:** Developed a **RESTful API using Fast** to serve model predictions; implemented data validation and transformation pipelines to handle incoming JSON requests.
 * **The Impact:** Enables seamless integration between data models and end-user business systems, proving "production-ready" coding standards.
 
 ### [Market Segmentation & Behavioral Clustering | Unsupervised Learning](https://github.com/Staphonix/your-repo)
@@ -49,10 +49,10 @@ Welcome to my professional portfolio. I am a Data Scientist pivoting from a back
 * **The Action:** Applied logistic regression and feature engineering on structured datasets; built interactive Power BI dashboards for executive review.
 * **The Impact:** Identified critical risk factors to inform organizational strategy and predictive forecasting.
 
-### [Plant Seedling Classification | Deep Learning](https://github.com/Staphonix/your-repo)
-* **The Goal:** Automate identification of 12 plant species using computer vision.
-* **The Action:** Developed a Convolutional Neural Network (CNN) with TensorFlow and Keras, implementing data augmentation and dropout layers.
-* **The Impact:** Optimized model generalization and predictive accuracy, showcasing the ability to handle unstructured data and advanced AI architectures.
+### [Customer Churn Analysis and Executive Storytelling | BI & Analytics](https://github.com/Staphonix/D601-Data-Storytelling)
+* **The Goal:** Provide company leadership with a clear understanding of customer attrition drivers to prioritize retention efforts.
+* **The Action:** Developed an interactive Tableau dashboard to segment churn by payment method, contract length, and service type; utilized customer personas and scenario forecasting to translate technical metrics for stakeholders.
+* **The Impact:** Identified high-risk segments—specifically fiber optic users on month-to-month contracts—and demonstrated that converting 25% of electronic check users to autopay could reduce churn by 10%.
 
 ---
 
