@@ -20,7 +20,7 @@ Welcome to my professional portfolio. I am a Data Scientist pivoting from a back
 ## Technical Toolkit
 
 * **Languages:** Python (Pandas, NumPy, Scikit-Learn), SQL (PostgreSQL/MySQL), R.
-* **AI & Machine Learning:** TensorFlow, Keras, CNNs, NLP, XGBoost, **FastAPI (Model Deployment)**.
+* **AI & Machine Learning:** TensorFlow, Keras, CNNs, NLP, XGBoost, FastAPI (Model Deployment).
 * **Analytics & Optimization:** PuLP (Linear Programming), **Advanced Excel (VBA/Power Query)**, PCA, Hypothesis Testing.
 * **Visualization:** Power BI, Tableau, Seaborn, Matplotlib.
 * **Business Systems:** Salesforce/CRM, Git/GitHub, Jupyter, NoSQL.
