@@ -27,6 +27,25 @@ Welcome to my professional portfolio. I am a Data Scientist pivoting from a back
 
 ---
 
+## Featured Technical Projects
+
+### [Plant Seedling Classification | Deep Learning](https://github.com/Staphonix/your-repo)
+* **The Goal:** Automate identification of 12 plant species using computer vision.
+* **The Action:** Developed a Convolutional Neural Network (CNN) with TensorFlow and Keras, implementing data augmentation and dropout layers.
+* **The Impact:** Optimized model generalization and predictive accuracy for automated classification tasks.
+
+### [Logistics Network Optimization | Prescriptive Analytics](https://github.com/Staphonix/your-repo)
+* **The Goal:** Minimize shipment costs across a multi-stage network flow.
+* **The Action:** Engineered a linear programming solution managing 189 variables and 73 constraints using Python (PuLP).
+* **The Impact:** Successfully satisfied 65 unique center demands while optimizing cost efficiency.
+
+### [Healthcare Patient Readmission Analysis | Predictive Analytics](https://github.com/Staphonix/your-repo)
+* **The Goal:** Identify key drivers for patient readmission to improve healthcare outcomes.
+* **The Action:** Applied logistic regression and feature engineering on structured healthcare data; built interactive Power BI dashboards.
+* **The Impact:** Identified critical risk factors to inform patient care strategy.
+
+---
+
 ## MSDA Course Portfolio (Foundations to Mastery)
 
 | Course | Project | Expertise & Tools |
@@ -65,16 +84,19 @@ Welcome to my professional portfolio. I am a Data Scientist pivoting from a back
 
 ## Strategic Interests & Domain Expertise
 
-###  Finance & Revenue Analytics
+### 💰 Finance & Revenue Analytics
+* **Educational Foundation:** **B.S. in Business Administration (Finance)** to bridge the gap between complex data modeling and financial theory.
+* **Market Proficiency:** Active trader of stocks/financial markets, applying technical analysis and quantitative methods to real-time market data.
 * **Revenue Strategy:** Analyzing revenue, market research, and RFP data to support over **$10.4M in billables**.
-* **Predictive Forecasting:** Utilizing CRM and AI-driven data to perform predictive modeling for revenue and sourcing strategies.
 * **Portfolio Management:** Synthesizing operational data into actionable insights for portfolios exceeding **$10M**.
 
-### Real Estate & Market Analysis
+### 🏠 Real Estate & Market Analysis
+* **Industry Credentials:** Licensed Real Estate Professional with experience in market valuation and property acquisition.
+* **Investment Analytics:** Skilled in **Pro Forma analysis**, cash flow modeling, and ROI projections for real estate assets.
 * **Market Trend Analysis:** Analyzing supply-and-demand trends across national organizations to inform business strategy.
-* **Feature Impact Scoring:** Evaluating key drivers within datasets to determine their impact on market outcomes.
 * **Geospatial Insights:** Utilizing data-driven visualization to assess geographic market effectiveness.
 
+### ⚙️ Operations & Optimization
 ### Operations & Optimization
 * **Prescriptive Modeling:** Engineering linear programming solutions managing **189 variables and 73 constraints** to minimize shipment costs.
 * **Workflow Automation:** Optimizing business workflows through data-driven process optimization and automated reporting.
