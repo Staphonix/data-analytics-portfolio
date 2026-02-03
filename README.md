@@ -76,3 +76,31 @@ Welcome to my professional portfolio. I am a Data Scientist pivoting from a back
 ## Strategic Interests & Domain Expertise
 
 ### Finance & Revenue Analytics
+* **Educational Foundation:** B.S. in Business Administration (Finance) to bridge the gap between complex data modeling and financial theory.
+* **Market Proficiency:** Active trader of stocks/financial markets, applying technical analysis and quantitative methods to real-time market data.
+* **Revenue Strategy:** Analyzing revenue, market research, and RFP data to support over $10.4M in billables.
+* **Portfolio Management:** Synthesizing operational data into actionable insights for portfolios exceeding $10M.
+
+### Real Estate & Market Analysis
+* **Industry Credentials:** Licensed Real Estate Professional with experience in market valuation and property acquisition.
+* **Investment Analytics:** Skilled in Pro Forma analysis, cash flow modeling, and ROI projections for real estate assets.
+* **Market Trend Analysis:** Analyzing supply-and-demand trends across national organizations to inform business strategy.
+* **Geospatial Insights:** Utilizing data-driven visualization to assess geographic market effectiveness.
+
+### Operations & Optimization
+* **Prescriptive Modeling:** Engineering linear programming solutions managing 189 variables and 73 constraints to minimize shipment costs.
+* **Workflow Automation:** Optimizing business workflows through data-driven process optimization and automated reporting.
+* **Network Flow Analysis:** Modeling multi-stage network flows to resolve complex logistical bottlenecks.
+
+### Human Capital & Talent Science
+* **Funnel Optimization:** Developing automated KPI dashboards to track client acquisition and recruiting funnel conversion rates.
+* **Workforce Planning:** Analyzing hiring, compensation, and time-to-fill datasets to support strategic budget planning.
+* **Metric Standardization:** Collaborating with stakeholders to standardize offer data and streamline approval workflows.
+
+---
+
+## Let's Connect!
+
+- **LinkedIn**: [LinkedIn.com/in/staphon-smith](https://www.linkedin.com/in/staphon-smith/)
+- **GitHub**: [github.com/Staphonix](https://github.com/Staphonix)
+- **Location**: San Diego, CA
