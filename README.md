@@ -1,73 +1,63 @@
-# Staphon Smith | Empowering Decisions Through Data
+# Staphon Smith, MSDA | Data Scientist & Finance Professional
 
-🎓 Data Analyst/Scientist | Finance Professional | Future-Focused Problem Solver
+🎓 **Master of Science in Data Analytics** | Western Governors University
+📈 **Finance Specialist** | Bridging the gap between complex data and business ROI
 
-Welcome to my GitHub portfolio. I'm currently pursuing a **Master of Science in Data Analytics** at **Western Governors University**, where I apply statistical analysis, data modeling, and visualization to solve real-world problems.
-
-This portfolio highlights my coursework, personal projects, and applied skills across data cleaning, analytics, and reporting — all rooted in my business and finance background.
-
----
-
-## Tools & Technologies
-
-- **Languages:** Python, R, SQL, Bash/Shell scripting  
-- **Python Libraries:** pandas, numpy, matplotlib, seaborn, plotly, statsmodels, scipy, scikit-learn, xgboost, lightgbm, nltk, spaCy  
-- **Techniques:** Data cleaning, EDA, regression (linear & logistic), classification (decision trees, random forests, SVM, boosting), clustering (k-means, hierarchical, DBSCAN), dimensionality reduction (PCA, t-SNE), hypothesis testing, time series forecasting, SQL querying, ETL, model validation  
-- **Tools & Platforms:** Jupyter Notebook, RStudio, PostgreSQL, pgAdmin, MongoDB, Tableau, Power BI, Git, GitHub, Excel, command line/terminal  
+Welcome to my professional portfolio. This space documents my transition from financial analysis to data science, showcasing a full-stack analytics skill set—from database architecture to advanced machine learning and optimization.
 
 ---
 
-##  Featured Course Projects
+## 🛠️ Technical Stack (Advanced)
 
-| Course | Project | Description |
-|--------|---------|-------------|
-| [D597 – Data Management](https://github.com/Staphonix/D597-Data-Management) | 📄 Designed and implemented relational databases using PostgreSQL,pgAdmin and MongoDB , as well as non-relational databases leveraging MongoDB | Covering schema design, normalization, and querying with both SQL and NoSQL techniques. |
-| [D598 – Analytics Programming](https://github.com/Staphonix/Staphonix-D598---Analytics-Programming) | 📈 Business Performance Analytics | Developed a Python workflow for cleaning, visualizing, and analyzing business data to assess trends and inform executive decisions |
-| [D599 – Data Preparation & Exploration](https://github.com/Staphonix/D599---Data-Preparation-and-Exploration) | 🔍 Data Cleaning & PCA | Cleaned a medical dataset, addressed missing values, performed EDA, and applied dimensionality reduction techniques to improve interpretability |
-| [D600 – Statistical Data Mining](#) | 📊 Supervised & Unsupervised Modeling | Applied regression, classification, clustering, and dimensionality reduction techniques using Python and R to uncover insights and improve predictive accuracy. |
-| [D601 – Data Storytelling](https://github.com/Staphonix/D601-Data-Storytelling) | 📊 Interactive Dashboards & Data Storytelling | Created Tableau dashboards and reports tailored for technical and non-technical audiences, focused on clear data communication and executive decision-making support. |
-| [D602 – Deployment](#) | Model & Solution Deployment | Covers strategies and tools for deploying data models and analytics solutions into production environments. |
-| [D603 – Machine Learning](#) | Predictive Modeling | Implementing advanced machine learning algorithms, including neural networks and ensemble methods, to solve complex problems. |
-| [D604 – Advanced Analytics](#) | Statistical Mining | Utilizing advanced statistical methods and data mining techniques to extract deep insights from large-scale datasets. |
-| [D605 – Optimization](#) | Prescriptive Analytics | Applying mathematical modeling and optimization techniques to improve business efficiency and resource allocation. |
-| [D606 – Data Science Capstone](#) | 🎓 Final Portfolio Project | An end-to-end data science project integrating the full lifecycle of data collection, analysis, modeling, and storytelling. |
-
+- **Machine Learning:** Scikit-Learn, XGBoost, LightGBM, CatBoost, Time Series (Statsmodels/Prophet)
+- **Deep Learning:** TensorFlow, Keras, Neural Network Architectures (CNN/RNN)
+- **Optimization:** Linear Programming, Integer Programming, PuLP, Monte Carlo Simulations
+- **Data Engineering:** ETL Pipelines, SQL (PostgreSQL), NoSQL (MongoDB), MLOps (MLFlow, Docker)
+- **Visualization:** Tableau (Advanced), Power BI, Plotly, Seaborn
 
 ---
 
-### Additional Tools
-- **Deployment:** Docker, Kubernetes, AWS (S3, Lambda, EC2), Azure, Google Cloud Platform, Flask, FastAPI, MLflow, Jenkins, GitHub Actions, RESTful APIs, Prometheus, Grafana, ELK Stack  
-- **Project Management:** Jira, Trello, Asana, Microsoft Project, Agile, Scrum, Waterfall, Microsoft Teams, Slack, Confluence  
-- **Business Process Engineering:** BPMN, Lucidchart, Visio, UiPath, Automation Anywhere, Apache NiFi, Talend, Lean Six Sigma (DMAIC, Kaizen)  
-- **Decision Intelligence:** DMN, Python PuLP, SciPy.optimize, TensorFlow, PyTorch, Advanced Tableau & Power BI dashboards, AnyLogic, SimPy  
+## 🚀 MSDA Course Portfolio (Foundations to Mastery)
 
-### Model Evaluation Metrics
-- Accuracy, Precision, Recall, F1 Score  
-- Confusion Matrix  
-- ROC Curve & AUC  
-- MAE, MSE, RMSE  
-- R-squared  
-- Cross-validation (k-fold)  
-- Log-loss  
-
-## Notable Work
-
-- **[Airbnb LA Project](#)** *(Coming Soon)*: Pricing trend analysis and feature impact scoring
-- **[NBA Player Analysis](#)** *(Coming Soon)*: Used player stats to uncover recruitment and performance patterns
-- **[British Airways Tableau Report](#)** *(Coming Soon)*: Dashboard built to visualize cost, revenue, and route efficiency KPIs
+| Course | Project | Expertise & Tools |
+| :--- | :--- | :--- |
+| [D597](https://github.com/Staphonix/D597-Data-Management) | **Data Management** | Relational (PostgreSQL) & NoSQL (MongoDB) Database Design |
+| [D598](https://github.com/Staphonix/Staphonix-D598---Analytics-Programming) | **Analytics Programming** | Python-driven ETL and Business Trend Visualization |
+| [D599](https://github.com/Staphonix/D599---Data-Preparation-and-Exploration) | **Data Prep & Exploration** | Dimensionality Reduction (PCA) and Medical Data Wrangling |
+| [D600](#) | **Statistical Data Mining** | Predictive Modeling using Python & R |
+| [D601](https://github.com/Staphonix/D601-Data-Storytelling) | **Data Storytelling** | Executive Dashboards & Stakeholder Communication (Tableau) |
+| [D602](#) | **Model Deployment** | Containerization (Docker) and API integration for ML |
+| [D603](#) | **Machine Learning** | Supervised & Unsupervised Learning (Ensemble Methods) |
+| [D604](#) | **Advanced Analytics** | Deep Learning, Neural Networks, and NLP |
+| [D605](#) | **Optimization** | Prescriptive Analytics and Mathematical Programming |
+| [D606](#) | **MSDA Capstone** | End-to-End Enterprise Data Science Solution |
 
 ---
 
-## My Interests
+## 📊 High-Impact Projects
 
-- Data Analytics in Sports, Finance, and Real Estate
-- AI tools for business optimization and automation
-- Dashboard design, business intelligence, and data pipelines
-- Turning messy data into clear, actionable insights
+### [Airbnb LA Market Analysis](#) *(In Progress)*
+* **Objective:** Predict rental pricing trends using XGBoost and feature engineering.
+* **Tech:** Python, Scikit-learn, Geospatial Analysis.
+
+### [NBA Player Performance Analytics](#) *(In Progress)*
+* **Objective:** Identify undervalued talent through statistical efficiency metrics.
+* **Tech:** Python, Clustering (K-Means), Advanced Visualization.
+
+### [British Airways Customer Insights](#) *(In Progress)*
+* **Objective:** Visualize route efficiency and customer KPIs for executive review.
+* **Tech:** Tableau, SQL, ETL Pipelines.
 
 ---
 
-## Let’s Connect
+## 🧠 Strategic Interests & Domain Expertise
+* **Financial Analytics:** Risk assessment, portfolio optimization, and ROI forecasting.
+* **Operations:** Lean Six Sigma (DMAIC), Process Engineering, and Resource Allocation.
+* **AI/ML:** Implementing Generative AI and Automation to optimize business workflows.
+
+---
+
+## 📬 Let’s Connect
 
 - **LinkedIn**: [linkedin.com/in/staphon-smith](https://www.linkedin.com/in/staphon-smith/)
 - **GitHub**: [github.com/Staphonix](https://github.com/Staphonix)
@@ -76,7 +66,4 @@ This portfolio highlights my coursework, personal projects, and applied skills a
 ---
 
 ### Ongoing Mission
-
 I’m building a **real-world-ready data portfolio** to reflect both academic excellence and business impact. Whether it’s cleaning raw data, automating insights, or helping executives make smarter decisions — I’m focused on delivering results that matter.
-
-Stay tuned — new projects are added regularly!
