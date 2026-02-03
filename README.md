@@ -78,7 +78,6 @@ Welcome to my professional portfolio. I am a Data Scientist pivoting from a back
 * **Geospatial Insights:** Utilizing data-driven visualization to assess geographic market effectiveness.
 
 ### Operations & Optimization
-### Operations & Optimization
 * **Prescriptive Modeling:** Engineering linear programming solutions managing **189 variables and 73 constraints** to minimize shipment costs.
 * **Workflow Automation:** Optimizing business workflows through data-driven process optimization and automated reporting.
 * **Network Flow Analysis:** Modeling multi-stage network flows to resolve complex logistical bottlenecks.
