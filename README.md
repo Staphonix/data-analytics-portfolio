@@ -1,7 +1,7 @@
 # Staphon Smith, MSDA | Data Scientist & Analytics Specialist
 
 **Master of Science in Data Analytics** | Western Governors University
-**Domain Expertise:** Finance, Real Estate, & Strategic Operations
+**Domain Expertise:** Strategic Operations, Finance, & Real Estate
 
 Welcome to my professional portfolio. I am a Data Scientist pivoting from a background in Business Development and Finance. I specialize in bridging the gap between technical modeling and executive strategy by synthesizing operational data into actionable insights.
 
@@ -36,7 +36,7 @@ Welcome to my professional portfolio. I am a Data Scientist pivoting from a back
 
 ### [Predictive Model Deployment | ML Engineering](https://github.com/Staphonix/your-repo)
 * **The Goal:** Bridge the gap between model development and production by deploying a trained predictive model as a scalable web service.
-* **The Action:** Developed a **RESTful API using Fast** to serve model predictions; implemented data validation and transformation pipelines to handle incoming JSON requests.
+* **The Action:** Developed a **RESTful API using FastAPI** to serve model predictions; implemented data validation and transformation pipelines to handle incoming JSON requests.
 * **The Impact:** Enables seamless integration between data models and end-user business systems, proving "production-ready" coding standards.
 
 ### [Market Segmentation & Behavioral Clustering | Unsupervised Learning](https://github.com/Staphonix/your-repo)
