@@ -1,13 +1,13 @@
-# Staphon Smith, MSDA | Data Scientist & Finance Professional
+# Staphon Smith, MSDA | Data Scientist & Analytics Specialist
 
-🎓 **Master of Science in Data Analytics** | Western Governors University
-📈 **Finance Specialist** | Bridging the gap between complex data and business ROI
+**Master of Science in Data Analytics** | Western Governors University
+**Domain Expertise:** Finance, Business Development, & Strategic Operations
 
-Welcome to my professional portfolio. This space documents my transition from financial analysis to data science, showcasing a full-stack analytics skill set—from database architecture to advanced machine learning and optimization.
+Welcome to my professional portfolio. I am a Data Scientist pivoting from a background in Business Development and Recruitment. I specialize in bridging the gap between technical modeling and executive strategy by synthesizing operational data into actionable insights.
 
 ---
 
-## 🛠️ Technical Stack (Advanced)
+## Technical Stack (Advanced)
 
 - **Machine Learning:** Scikit-Learn, XGBoost, LightGBM, CatBoost, Time Series (Statsmodels/Prophet)
 - **Deep Learning:** TensorFlow, Keras, Neural Network Architectures (CNN/RNN)
@@ -17,24 +17,24 @@ Welcome to my professional portfolio. This space documents my transition from fi
 
 ---
 
-## 🚀 MSDA Course Portfolio (Foundations to Mastery)
+## MSDA Course Portfolio (Foundations to Mastery)
 
 | Course | Project | Expertise & Tools |
 | :--- | :--- | :--- |
-| [D597](https://github.com/Staphonix/D597-Data-Management) | **Data Management** | Relational (PostgreSQL) & NoSQL (MongoDB) Database Design |
-| [D598](https://github.com/Staphonix/Staphonix-D598---Analytics-Programming) | **Analytics Programming** | Python-driven ETL and Business Trend Visualization |
-| [D599](https://github.com/Staphonix/D599---Data-Preparation-and-Exploration) | **Data Prep & Exploration** | Dimensionality Reduction (PCA) and Medical Data Wrangling |
-| [D600](#) | **Statistical Data Mining** | Predictive Modeling using Python & R |
-| [D601](https://github.com/Staphonix/D601-Data-Storytelling) | **Data Storytelling** | Executive Dashboards & Stakeholder Communication (Tableau) |
-| [D602](#) | **Model Deployment** | Containerization (Docker) and API integration for ML |
-| [D603](#) | **Machine Learning** | Supervised & Unsupervised Learning (Ensemble Methods) |
-| [D604](#) | **Advanced Analytics** | Deep Learning, Neural Networks, and NLP |
-| [D605](#) | **Optimization** | Prescriptive Analytics and Mathematical Programming |
-| [D606](#) | **MSDA Capstone** | End-to-End Enterprise Data Science Solution |
+| **D597** | [Data Management](https://github.com/Staphonix/D597-Data-Management) | SQL (Postgres/MySQL) & NoSQL Database Design |
+| **D598** | [Analytics Programming](https://github.com/Staphonix/Staphonix-D598---Analytics-Programming) | Automated ETL & Python Business Workflows |
+| **D599** | [Data Prep & Exploration](https://github.com/Staphonix/D599---Data-Preparation-and-Exploration) | Dimensionality Reduction (PCA) & EDA |
+| **D600** | [Statistical Data Mining](#) | Supervised & Unsupervised Modeling |
+| **D601** | [Data Storytelling](https://github.com/Staphonix/D601-Data-Storytelling) | KPI Dashboards & Executive Strategy Alignment |
+| **D602** | [Model Deployment](#) | Converting Models into Production APIs |
+| **D603** | [Machine Learning](#) | Predictive Modeling for Market & Sourcing Analysis |
+| **D604** | [Advanced Analytics](#) | Deep Learning, CNNs, and NLP |
+| **D605** | [Optimization](#) | Linear Programming & Multi-stage Network Flows |
+| **D606** | [MSDA Capstone](#) | **Final Thesis:** Full-Scale Data Science Solution |
 
 ---
 
-## 📊 High-Impact Projects
+## Featured Technical Projects
 
 ### [Plant Seedling Classification | Deep Learning](https://github.com/Staphonix/your-repo)
 * **The Goal:** Automate identification of 12 plant species using computer vision.
@@ -53,20 +53,16 @@ Welcome to my professional portfolio. This space documents my transition from fi
 
 ---
 
-## 🧠 Strategic Interests & Domain Expertise
+##  Strategic Interests & Domain Expertise
 * **Financial Analytics:** Risk assessment, portfolio optimization, and ROI forecasting.
 * **Operations:** Lean Six Sigma (DMAIC), Process Engineering, and Resource Allocation.
 * **AI/ML:** Implementing Generative AI and Automation to optimize business workflows.
 
 ---
 
-## 📬 Let’s Connect
+## Let’s Connect!
 
-- **LinkedIn**: [linkedin.com/in/staphon-smith](https://www.linkedin.com/in/staphon-smith/)
+- **LinkedIn**: [LinkedIn.com/in/staphon-smith](https://www.linkedin.com/in/staphon-smith/)
 - **GitHub**: [github.com/Staphonix](https://github.com/Staphonix)
-- **Email**: *Available upon request*
-
+- **Location**: San Diego, CA
 ---
-
-### Ongoing Mission
-I’m building a **real-world-ready data portfolio** to reflect both academic excellence and business impact. Whether it’s cleaning raw data, automating insights, or helping executives make smarter decisions — I’m focused on delivering results that matter.
