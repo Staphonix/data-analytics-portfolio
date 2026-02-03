@@ -7,13 +7,23 @@ Welcome to my professional portfolio. I am a Data Scientist pivoting from a back
 
 ---
 
-## Technical Stack (Advanced)
+## Core Competencies
 
-- **Machine Learning:** Scikit-Learn, XGBoost, LightGBM, CatBoost, Time Series (Statsmodels/Prophet)
-- **Deep Learning:** TensorFlow, Keras, Neural Network Architectures (CNN/RNN)
-- **Optimization:** Linear Programming, Integer Programming, PuLP, Monte Carlo Simulations
-- **Data Engineering:** ETL Pipelines, SQL (PostgreSQL), NoSQL (MongoDB), MLOps (MLFlow, Docker)
-- **Visualization:** Tableau (Advanced), Power BI, Plotly, Seaborn
+| **Data Science (Predictive Modeling)** | **Data Analysis (Insights & Visualization)** |
+| :--- | :--- |
+| **Deep Learning:** Developing CNNs for automated image classification. | **Business Intelligence:** Building automated KPI dashboards in Power BI and Tableau. |
+| **Optimization:** Engineering linear programming solutions for network flow. | **Statistical Modeling:** Identifying readmission drivers via Logistic Regression. |
+| **Machine Learning:** Scikit-Learn, XGBoost, and NLP for sourcing strategy. | **Technical Storytelling:** Translating qualitative requirements into structured data insights. |
+
+---
+
+## Technical Skills
+
+* **Languages:** SQL (PostgreSQL/MySQL), Python (Pandas, NumPy, Scikit-Learn, Statsmodels), R.
+* **AI & Deep Learning:** TensorFlow, Keras, CNNs, NLP.
+* **Analytics & Optimization:** PuLP (Linear Programming), PCA, K-Means Clustering, Hypothesis Testing.
+* **Visualization:** Power BI, Tableau, Seaborn, Advanced Excel (VBA).
+* **Platform Mastery:** Git/GitHub, Salesforce/CRM, Jupyter, NoSQL.
 
 ---
 
@@ -53,10 +63,27 @@ Welcome to my professional portfolio. I am a Data Scientist pivoting from a back
 
 ---
 
-##  Strategic Interests & Domain Expertise
-* **Financial Analytics:** Risk assessment, portfolio optimization, and ROI forecasting.
-* **Operations:** Lean Six Sigma (DMAIC), Process Engineering, and Resource Allocation.
-* **AI/ML:** Implementing Generative AI and Automation to optimize business workflows.
+## Strategic Interests & Domain Expertise
+
+###  Finance & Revenue Analytics
+* **Revenue Strategy:** Analyzing revenue, market research, and RFP data to support over **$10.4M in billables**.
+* **Predictive Forecasting:** Utilizing CRM and AI-driven data to perform predictive modeling for revenue and sourcing strategies.
+* **Portfolio Management:** Synthesizing operational data into actionable insights for portfolios exceeding **$10M**.
+
+### Real Estate & Market Analysis
+* **Market Trend Analysis:** Analyzing supply-and-demand trends across national organizations to inform business strategy.
+* **Feature Impact Scoring:** Evaluating key drivers within datasets to determine their impact on market outcomes.
+* **Geospatial Insights:** Utilizing data-driven visualization to assess geographic market effectiveness.
+
+### Operations & Optimization
+* **Prescriptive Modeling:** Engineering linear programming solutions managing **189 variables and 73 constraints** to minimize shipment costs.
+* **Workflow Automation:** Optimizing business workflows through data-driven process optimization and automated reporting.
+* **Network Flow Analysis:** Modeling multi-stage network flows to resolve complex logistical bottlenecks.
+
+### Human Capital & Talent Science
+* **Funnel Optimization:** Developing automated KPI dashboards to track client acquisition and recruiting funnel conversion rates.
+* **Workforce Planning:** Analyzing hiring, compensation, and time-to-fill datasets to support strategic budget planning.
+* **Metric Standardization:** Collaborating with stakeholders to standardize offer data and streamline approval workflows.
 
 ---
 
