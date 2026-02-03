@@ -36,17 +36,20 @@ Welcome to my professional portfolio. This space documents my transition from fi
 
 ## 📊 High-Impact Projects
 
-### [Airbnb LA Market Analysis](#) *(In Progress)*
-* **Objective:** Predict rental pricing trends using XGBoost and feature engineering.
-* **Tech:** Python, Scikit-learn, Geospatial Analysis.
+### [Plant Seedling Classification | Deep Learning](https://github.com/Staphonix/your-repo)
+* **The Goal:** Automate identification of 12 plant species using computer vision.
+* **The Action:** Developed a Convolutional Neural Network (CNN) with TensorFlow and Keras, implementing data augmentation and dropout layers.
+* **The Impact:** Optimized model generalization and predictive accuracy for automated classification tasks.
 
-### [NBA Player Performance Analytics](#) *(In Progress)*
-* **Objective:** Identify undervalued talent through statistical efficiency metrics.
-* **Tech:** Python, Clustering (K-Means), Advanced Visualization.
+### [Logistics Network Optimization | Prescriptive Analytics](https://github.com/Staphonix/your-repo)
+* **The Goal:** Minimize shipment costs across a multi-stage network flow.
+* **The Action:** Engineered a linear programming solution managing 189 variables and 73 constraints using Python (PuLP).
+* **The Impact:** Successfully satisfied 65 unique center demands while optimizing cost efficiency.
 
-### [British Airways Customer Insights](#) *(In Progress)*
-* **Objective:** Visualize route efficiency and customer KPIs for executive review.
-* **Tech:** Tableau, SQL, ETL Pipelines.
+### [Healthcare Patient Readmission Analysis | Predictive Analytics](https://github.com/Staphonix/your-repo)
+* **The Goal:** Identify key drivers for patient readmission to improve healthcare outcomes.
+* **The Action:** Applied logistic regression and feature engineering on structured healthcare data; built interactive Power BI dashboards.
+* **The Impact:** Identified critical risk factors to inform patient care strategy.
 
 ---
 
